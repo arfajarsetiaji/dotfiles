@@ -1,0 +1,11 @@
+[user]
+	name = Ar Fajar Setiaji
+	email = arfajarsetiaji.id@gmail.com
+[core]
+	editor = code --wait
+[diff]
+	tool = default-difftool
+[difftool "default-difftool"]
+	cmd = code --wait --diff $LOCAL $REMOTE
+[init]
+	defaultBranch = main
