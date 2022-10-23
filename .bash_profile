@@ -1,4 +1,4 @@
- # Fig pre block. Keep at the top of this file.
+# Fig pre block. Keep at the top of this file.
 [[ -f "$HOME/.fig/shell/bash_profile.pre.bash" ]] && builtin source "$HOME/.fig/shell/bash_profile.pre.bash"
 source ~/.profile
 
