@@ -3,6 +3,7 @@
 	email = arfajarsetiaji.id@gmail.com
 [core]
 	editor = code --wait
+	excludesfile = /Users/arfajarsetiaji/.gitignore_global
 [diff]
 	tool = default-difftool
 [difftool "default-difftool"]
