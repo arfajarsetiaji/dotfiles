@@ -10,7 +10,7 @@ module.exports = {
     // default font size in pixels for all tabs
     fontSize: 16,
     // font family with optional fallbacks
-    fontFamily: "MonoLisa, Dank Mono, Fira Code Retina, Cascadia Code",
+    fontFamily: "MonoLisa, DankMono-Regular, FiraCode-Retina, Cascadia Code",
     // default font weight: 'normal' or 'bold'
     fontWeight: "normal",
     // font weight for bold characters: 'normal' or 'bold'
@@ -143,9 +143,7 @@ module.exports = {
   // in development, you can create a directory under
   // `~/.hyper_plugins/local/` and include it here
   // to load it and avoid it being `npm install`ed
-  localPlugins: [
-  "fig-hyper-integration"
-],
+  localPlugins: [],
   keymaps: {
     // Example
     // 'window:devtools': 'cmd+alt+o',
