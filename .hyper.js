@@ -10,7 +10,8 @@ module.exports = {
     // default font size in pixels for all tabs
     fontSize: 16,
     // font family with optional fallbacks
-    fontFamily: "MonoLisa, Dank Mono, Fira Code Retina, Cascadia Code",
+    fontFamily:
+      "MonoLisa, DankMono-Regular, FiraCode-Retina, Fira Code, Cascadia Code",
     // default font weight: 'normal' or 'bold'
     fontWeight: "normal",
     // font weight for bold characters: 'normal' or 'bold'
