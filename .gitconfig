@@ -4,6 +4,8 @@
 [core]
 	editor = code --wait
 	excludesfile = /Users/arfajarsetiaji/.gitignore_global
+	eol = lf
+	autocrlf = false
 [diff]
 	tool = default-difftool
 [difftool "default-difftool"]
