@@ -2,6 +2,7 @@
 [[ -f "$HOME/.fig/shell/zprofile.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zprofile.pre.zsh"
 source ~/.profile
 
+# Homebrew
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 # Fig post block. Keep at the bottom of this file.
