@@ -1,4 +1,5 @@
 {
+	"$schema": "https://json.schemastore.org/htmlhint.json",
 	"alt-require": true,
 	"attr-lowercase": true,
 	"attr-no-duplication": true,
