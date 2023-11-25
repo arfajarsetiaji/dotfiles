@@ -16,8 +16,5 @@ export PATH="/opt/homebrew/opt/python@3.10/bin:$PATH"
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
 
-# Pkgx
-source <(pkgx --shellcode)  #docs.pkgx.sh/shellcode
-
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
