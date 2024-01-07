@@ -1,0 +1,7 @@
+# Ignore by default:
+# **/.git
+# **/.svn
+# **/.hg
+# **/node_modules # Unless the "--with-node-modules" CLI option is specified
+
+# Also follow rules specified in the ".gitignore" file if it exists in the same directory from which it is run.
