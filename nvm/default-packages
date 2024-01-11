@@ -2,6 +2,7 @@ pm2
 concurrent
 pnpm
 yarn
+npm-check-updates
 typescript
 sass
 @nestjs/cli
